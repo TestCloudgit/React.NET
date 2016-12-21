@@ -64,3 +64,4 @@ contributing to ReactJS.NET.
 
 Note that the build requires you to have Git installed. If you do not want to 
 install Git, you may remove the `GitVersion` task from `build.proj`.
+##
